@@ -9,12 +9,13 @@ The `reset.css` project is a CSS reset file that removes default browser styles 
 
 ## Installation
 
-### Direct Download
-1. Download the `reset.css` file and place it in your project's CSS folder.
-2. Link it in the `<head>` section of your HTML file:
-   ```html
-   <link rel="stylesheet" href="path/to/reset.css">
-   ```
+### Download
+
+See [Download link](https://cdn.jsdelivr.net/gh/robertgontarski/reset.css@master/reset.css)
+
+### CDN
+
+See [jsDelivr](https://www.jsdelivr.com/package/gh/robertgontarski/reset.css)
 
 ## How It Works
 The `reset.css` file removes default styles like margins, padding, and heading formats applied by browsers, providing a unified styling baseline. This approach is essential for building responsive, consistent user interfaces.
